@@ -1,6 +1,6 @@
 # Battlecode 2021 Scaffold
 
-This is the Battlecode 2021 scaffold, containing an `examplefuncsplayer`. Read https://2021.battlecode.org/getting-started!
+This is the Battlecode 2021 scaffold, containing an `examplefuncsplayer` and my various `cavshield` versions. Read https://2021.battlecode.org/getting-started!
 
 ### Project Structure
 
